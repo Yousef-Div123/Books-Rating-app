@@ -1,0 +1,6 @@
+ISBN,Book-Title,Total-Rating,Total-Raters
+0195153448,Classical Mythology,3.0,2
+0002005018,Clara Callan,4.5,2
+0060973129,Decision in Normandy,3.5,2
+0887841740,The Middle Stories,4.0,1
+0446310786,To Kill a Mockingbird,3.5,2
