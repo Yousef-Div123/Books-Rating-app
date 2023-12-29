@@ -6,7 +6,7 @@ class Book():
         self._bookTitle = bookTitle
         # make sure that number of raters and average rating is saved as integer
         self._numbereOfRaters = int(numbereOfRaters)
-        self._averageRating = int(averageRating)
+        self._averageRating = float(averageRating)
 
     # getter methods
     def getAvgRating(self):
